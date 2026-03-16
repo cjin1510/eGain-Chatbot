@@ -47,7 +47,7 @@ The following examples show different conversation paths and error handling case
 ![Invalid Menu Choice](Screenshots/error-handle-invalid-menu-choice.png)
 
 ### Invalid Yes/No Input Handling
-![Invalid Yes No](Screenshots/error-handle-yes-or-no.png)
+![Invalid Yes No](/Users/jin/ChatBotAssignment/ChatBot/Screenshots/error-handle-yes-or-no.png)
 
 ### No Tracking Number Path
 ![No Tracking Example](Screenshots/no-tracking.png)
