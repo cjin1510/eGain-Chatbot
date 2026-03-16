@@ -36,7 +36,7 @@ For the code section, I kept the code organized by using helper functions to han
 This helps keep the chatbot logic clean and reusable.
 
 ## Screenshots
-The following examplesx show different conversation paths and error handling cases handled by the chatbot.
+The following examples show different conversation paths and error handling cases handled by the chatbot.
 ### Delayed Package Example
 ![Delayed Package Example](Screenshots/delayed-package.png)
 
